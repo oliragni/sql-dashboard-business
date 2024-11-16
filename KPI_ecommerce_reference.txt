@@ -1,0 +1,67 @@
+1. Número de visitantes del sitio web
+El número de visitantes en el período es el principal KPI de tráfico para el e-commerce. Este indicador mide el desempeño de estrategias para atraer clientes, como e-mail marketing, anuncios en redes sociales y campañas de medios programáticos.
+
+Un tip para calificar el análisis es observar también las principales fuentes de conversión. ¿De dónde viene la mayor parte de los accesos? ¿Cuáles canales generan más compras?
+
+Fijate también en los dispositivos por los cuales los visitantes acceden al e-commerce. Este dato influencia la usabilidad y el diseño de interfaz y experiencia del usuario (UX/UI).
+
+2. Número de ventas
+No es por nada que la mayoría de los gerentes de ventas enfoca el análisis de KPIs en indicadores de ingresos.
+
+El número de ventas puede ser dividido en cantidad (total de pedidos hechos en el periodo) o valor monetario (total facturado en el periodo). Vale la pena generar ambos datos, que, entre otros, ayudan a evaluar la calidad de las ofertas, el alineamiento con el mercado objetivo y el funcionamiento del sitio web o aplicación.
+
+3. Tasa de conversión
+Tasa de conversión (%) = (Número de ventas o acciones realizadas / Número de visitas en el sitio web) x 100
+
+Con base en el número de visitas al sitio web, la tasa de conversión estima cuántos efectivamente compraron algún producto o realizaron una acción relevante para tu estrategia.
+
+Vale la pena recordar que la conversión, en el e-commerce, abarca tanto ventas de productos cuanto conversiones de visitantes en leads, o de leads en oportunidades. Siendo así, este es un KPI esencial para acompañar el flujo de tu embudo de ventas, orientando acciones comerciales, de marketing y relación.
+
+4. Tasa de aceptación
+Tasa de aceptación (%) = (Ventas terminadas/ Número de pedidos) x 100
+
+No todas las ventas a través del e-commerce son facturadas. Tarjetas de crédito no aprobadas y boletos bancarios expirados pueden interrumpir la finalización del negocio.
+
+Siendo así, la tasa de aceptación de pedidos profundiza el análisis del número de ventas y de la tasa de conversión, indicando cuántas ventas fueron de hecho concluidas. Monitorear este KPI también garantiza que el e-commerce ofrezca buenas condiciones de pago, con opciones variadas, plazos atrayentes y beneficios como envíos gratis.
+
+5. Retorno sobre la inversión (Return Over Investment, ROI)
+ROI (%) = ([Ingreso – Costo] / Costo) x 100
+
+El ROI es el KPI más fundamental para la estimativa de ganancia del e-commerce. El cálculo puede evaluar tanto el desempeño de la tienda en general cuanto el rendimiento de estrategias y acciones específicas. Campañas de marketing con enfoque en conversión son especialmente adecuadas para la aplicación de este indicador.
+
+6. Costo de adquisición por cliente (CAC)
+CAC ($) = Suma de las inversiones hechas en la estrategia / Número de clientes captados
+
+El CAC estima un promedio de la inversión necesaria para convertir un visitante, lead o oportunidad en cliente de tu e-commerce.
+
+El cálculo de este indicador contempla diversas inversiones a lo largo del embudo de ventas, como remuneración de los colaboradores, costos de entrenamiento, adquisición de herramientas y licencias, producción y distribución de contenido, entre otros ejemplos. Conocer todas las acciones involucradas en la conversión de clientes es fundamental para una estimación precisa.
+
+Idealmente, tu estrategia de ventas se orienta hacia la reducción del CAC – lo que indica que la tienda virtual está obteniendo cada vez más beneficios.
+
+7. Ticket promedio
+Ticket promedio ($) = Valor total facturado / Número de pedidos
+
+El ticket promedio indica cuánto tus clientes gastan, en promedio, en cada compra en tu e-commerce. Este KPI relativiza tanto el número de ventas realizadas cuanto el CAC: si el ticket promedio es alto, la tienda no se perjudicará al recibir menos pedidos, o invertir más en la adquisición de clientes.
+
+Después de calcular el ticket promedio, puedes sustraer este valor del CAC para medir la ventaja de tu negocio. Si la diferencia es positiva, tus clientes están dejando en el sitio web un valor que compensa lo que inviertes para convertirlos. Si, al contrario, estás perdiendo dinero, puedes aplicar estrategias como cross-selling y upselling para facturar más.
+
+8. Tiempo de vida del cliente (Lifetime Value, LTV)
+LTV ($) = Ticket promedio x Número de repeticiones de ventas x Tiempo promedio de retención del cliente con la marca
+
+Después de la conversión, los clientes de tu e-commerce pueden realizar menos compras o compras de menor valor. No obstante, cuando confian en tu servicio, se sienten seguros para comprar más y adquirir productos más caros.
+
+Por ese motivo, conocer el LTV hace que el análisis de adquisición de clientes sea más completo. Este KPI estima el potencial de venta para un cliente mientras permanezca en tu cartera. Es un indicador vinculado al nivel de satisfacción del público, y ayuda a evaluar los esfuerzos de retención y brand advocacy.
+
+El LTV también apoya el planeamiento de estrategias y acciones a largo plazo, ya que sugiere cuánto el e-commerce puede ganar desenvolviendo acciones para la propia base de clientes.
+
+9. Tasa de rechazo
+Este indicador es ofrecido por Google Analytics y evalúa las interacciones de los usuarios con tu e-commerce. En el cálculo de la plataforma, están contemplados puntos como el tiempo de navegación, vínculos en los que hacen clic y el engagement con el contenido del sitio web.
+
+Tasas altas de rechazo pueden indicar problemas de funcionalidad, usabilidad y contenido del sitio web. Layout confuso, enlaces rotos, páginas que cuestan cargar o traen poca información son ejemplos de que puedes decepcionar a tus clientes – aumentando el rechazo de tu tienda virtual.
+
+10. Tasa de salida
+También generada por Google Analytics, la tasa de salida indica el rechazo de una página específica o de un grupo de páginas.
+
+Los motivos que aumentan la tasa de salida son los mismos que aumentan la tasa de rechazo del e-commerce. Sin embargo, además de indicar problemas en el rendimiento del sitio web, este KPI ayuda a medir el abandono del carrito de compras.
+
+Si los usuarios están llegando al check-out y saliendo, considera lo que puede estar haciéndolos desistir en esta etapa del recorrido del comprador. Campañas de remarketing, nuevas formas de pago y actualizaciones en la interfaz de la página pueden ser implementadas para aliviar este problema.
